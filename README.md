@@ -1,3 +1,3 @@
-# git_test
+# odin-recipes
 
-Hello Odin!
+This is a mock recipes website, created as part of The Odin Project curriculum.
